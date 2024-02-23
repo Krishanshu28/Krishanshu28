@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Multiplayer Game**
 
-- 🌱 I’m currently learning **Photon, FireBase**
+- 🌱 I’m currently learning **Photon, Firebase**
 
-- 💬 Ask me about **C#, Game Development, Game UI, AR Development**
+- 💬 Ask me about **C#, Game Development, Photon, AR Development**
 
 - 📫 How to reach me **krishnasrivastava2811@gmail.com**
 
