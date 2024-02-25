@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Multiplayer Game**
 
-- 🌱 I’m currently learning **Photon, Firebase**
+- 🌱 I’m currently learning **Photon**
 
 - 💬 Ask me about **C#, Game Development, Photon, AR Development**
 
