@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishanshu28&label=Profile%20views&color=0e75b6&style=flat" alt="krishanshu28" /> </p>
 
-- 🔭 I’m currently working on **Multiplayer Game**
+- 🔭 I’m currently working on **2D RPG**
 
-- 🌱 I’m currently learning **Photon**
+- 🌱 I’m currently learning **Inventory System, Shaders**
 
 - 💬 Ask me about **C#, Game Development, Photon, AR Development**
 
