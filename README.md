@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **2D RPG**
 
-- 🌱 I’m currently learning **Inventory System, Shaders**
+- 🌱 I’m currently learning **Shaders**
 
 - 💬 Ask me about **C#, Game Development, Photon, AR Development**
 
