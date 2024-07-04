@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishanshu28&label=Profile%20views&color=0e75b6&style=flat" alt="krishanshu28" /> </p>
 
-- 🔭 I’m currently working on **2D RPG**
+- 🔭 I’m currently working on **Tower Defense**
 
-- 🌱 I’m currently learning **Shaders**
+- 🌱 I’m currently learning **Blender**
 
 - 💬 Ask me about **C#, Game Development, Photon, AR Development**
 
