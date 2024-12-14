@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Tower Defense**
 
-- 🌱 I’m currently learning **Blender**
+- 🌱 I’m currently learning **Unreal Engine**
 
 - 💬 Ask me about **C#, Game Development, Photon, AR Development**
 
